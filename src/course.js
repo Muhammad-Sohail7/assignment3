@@ -12,6 +12,7 @@ import React from "react";
                 <h1>My Course is {props.course}</h1>
                 <h1>My Batch is {props.batch}</h1>
                 <h1>My PIAIC Campus is {props.institute}</h1>
+                <h1>Hell bro</h1>
             </div>
         </React.Fragment>
     )
